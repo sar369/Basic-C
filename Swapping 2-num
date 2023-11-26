@@ -8,5 +8,6 @@ int main()
     a = b;
     b = c;
     printf("After swaping: %d %d",a,b);
+
     return 0;
 }
